@@ -1,0 +1,71 @@
+
+  .container{
+    margin-top: 5rem;
+  }
+  .login-form {
+    max-width: 400px;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .login-form h1 {
+    text-align: center;
+  }
+  
+  .input-box {
+    position: relative;
+  }
+  
+  .input-box input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
+  .input-box i {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+  }
+  
+  .remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .remember-forgot label {
+    margin: 0;
+  }
+  
+  .login-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .register-link p {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .register-link a {
+    color: #007bff;
+  }
+  

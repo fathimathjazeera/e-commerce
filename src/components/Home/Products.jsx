@@ -1,0 +1,39 @@
+
+export const products=[
+  {
+    name:'toys-baby',
+    title:'baby-product',
+    category:'toys',
+    URL:'https://i.pinimg.com/564x/46/91/aa/4691aa87e5a426c6d93483154572da2e.jpg',
+    qty:1,
+    prize:200,
+    id:1
+  },
+  {
+    name:'toys-baby',
+    title:'baby-product',
+    category:'toys',
+    URL:'https://i.pinimg.com/564x/b1/fe/04/b1fe04c9052f20bee8c377de02b78738.jpg',
+    qty:1,
+    id:2
+  },
+  {
+    name:'peanut-butter',
+    title:'baby-product',
+    category:'nutrition',
+    URL:'https://i.pinimg.com/564x/60/75/74/6075740e0fb49d25368f4c5c4da70f2d.jpg',
+    qty:1,
+    prize:200,
+    id:3
+  },
+  {
+    name:'baby-frock',
+    title:'baby-product',
+    category:'cloth',
+    URL:'https://i.pinimg.com/736x/e0/07/97/e00797f1763323120c91d17caaf95ce3.jpg',
+    qty:1,
+    prize:200,
+    id:4
+  }
+]
+

@@ -1,0 +1,42 @@
+/* ProductForm.css */
+.custom-product-form-container {
+ margin-top: 5rem;
+ margin-left: 25rem;
+  }
+  
+  .custom-product-form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .custom-form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .custom-form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .custom-submit-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .custom-submit-button:hover {
+    background-color: #0056b3;
+  }
+  
